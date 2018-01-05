@@ -38,3 +38,7 @@ server.listen(port, hostname, () => {
 });
 
 ```
+* for start the server type the ***node application name or file name***
+<a href="http://www.4GP.ME/bbtc/1515185574612.jpg"><img src="http://www.4GP.ME/bbtc/1515185574612.jpg" border="0" alt="Resim hosting: UploadEdit.com"></a>
+* now open the ```browser``` and type in the ``url`` your ```loacl host address``` **hostname = '127.0.0.1'**
+software using [visual studio code(vscode editor)](https://code.visualstudio.com)
