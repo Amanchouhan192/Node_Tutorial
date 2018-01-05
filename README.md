@@ -43,3 +43,22 @@ server.listen(port, hostname, () => {
 * now open the ```browser``` and type in the ``url`` your ```loacl host address``` **hostname = '127.0.0.1'**
 software using [visual studio code(vscode editor)](https://code.visualstudio.com)
 * And you get your first ```Hello world``` web ```app```
+* when you type ```wrong method``` in the ``server`` code the you dont get any ```response``` on the ```webpage```.
+
+```js
+const http = require('http');
+
+const hostname = '127.0.0.1';
+const port = 3000;
+
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+--->  res.endd('Hello World\n');
+});
+
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
+
+```
