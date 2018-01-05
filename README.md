@@ -19,7 +19,7 @@ Follow the step to Install the Nodejs on Windows..
 Node.js is a platform built on **Chrome's** [JavaScript](https://www.javascript.com/) runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
 ## How to create Nodejs Server?
-* ``create1`` the file has **.js** ```extension```.
+* ``create`` the file has **.js** ```extension```.
 * type the below code nodejs ***server code***
 ```js
 const http = require('http');
