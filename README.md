@@ -11,3 +11,5 @@ this is the tutorial of node js . In Which you can learn the nodejs and apply on
 Follow the step to Install the Nodejs on Windows..
 * Open the browser And Type [Nodejs Downlod](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf-fj8zcHYAhWMPI8KHTiNAqEQFggmMAA&url=https%3A%2F%2Fnodejs.org%2Fen%2Fdownload%2F&usg=AOvVaw3mpn_kqKBfLUVM2X6RrMKX)
 * And **download** [current version](https://nodejs.org/dist/v9.3.0/node-v9.3.0-x64.msi) of the Nodejs.
+* Now check the ```nodejs is install``` or ``not`` open CMD and type **node -v** and it shows the version ``current version`` thats mean the nodejs is install perfectly on your machine
+<a href="https://ibb.co/n2WgUw"><img src="https://preview.ibb.co/gFHMUw/amanchouhanwork.png" alt="amanchouhanwork" border="0"></a>
