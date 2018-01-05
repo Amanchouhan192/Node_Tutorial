@@ -13,3 +13,7 @@ Follow the step to Install the Nodejs on Windows..
 * And **download** [current version](https://nodejs.org/dist/v9.3.0/node-v9.3.0-x64.msi) of the Nodejs.
 * Now check the ```nodejs is install``` or ``not`` open CMD and type **node -v** and it shows the version ``current version`` thats mean the nodejs is install perfectly on your machine
 <a href="https://ibb.co/n2WgUw"><img src="https://preview.ibb.co/gFHMUw/amanchouhanwork.png" alt="amanchouhanwork" border="0"></a>
+* Now check the [*Node Package Manger(npm)*](https://www.npmjs.com/) is ```install``` or not Repeat above steps and open cmd type **npm -v**.
+
+## Why we use **Nodejs**?
+Node.js is a platform built on **Chrome's** [JavaScript](https://www.javascript.com/) runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
