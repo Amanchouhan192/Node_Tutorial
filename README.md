@@ -65,5 +65,5 @@ server.listen(port, hostname, () => {
 ## Different Functionality of nodejs
 * [Reading and Writing Files using fs module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
 * [ Creating and Removing Directories using fs module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
-* [Nodejs events and eventemitter]https://nodejs.org/api/events.html(https://nodejs.org/api/events.html)
+* [Nodejs events and eventemitter](https://nodejs.org/api/events.html)
 * [Stream Redable and writtable](https://nodejs.org/api/stream.html)
